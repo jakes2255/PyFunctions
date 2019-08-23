@@ -4,7 +4,9 @@
 
 A simple check to study and play around with python functions:relaxed:
 
-### IDE: PyCharm
+### IDE: 
+PyCharm
+ (Community 2019)
 
 Thanks</br>
 Arun
